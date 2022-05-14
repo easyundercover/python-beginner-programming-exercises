@@ -16,10 +16,10 @@
 __pycache__/
 .pytest_cache/
 
-!/.learn
+/.learn
 /.learn/**
-!/.learn/resets
-!/.learn/resets/**
-!/.learn/assets
-!/.learn/assets/**
+/.learn/resets
+/.learn/resets/**
+/.learn/assets
+/.learn/assets/**
 
